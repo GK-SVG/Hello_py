@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a22dc034-3b0a-41df-a5fa-0725814e0d31" name="Default Changelist" comment="" />
+    <list default="true" id="a22dc034-3b0a-41df-a5fa-0725814e0d31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calender_MODULE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math_Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import1st.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers_in_alphabets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachages_in_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_DICE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtleSQUIRE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple calculator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uvg1AZ1vZ9usd4ysR9i0WmglSS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -30,15 +52,15 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.simple calculator">
-    <configuration name="LARGEST_NUMBER_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.turtleSQUIRE">
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +73,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LARGEST_NUMBER_in_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XY_cordinates_using_forLOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +95,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XY_cordinates_using_forLOOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pachages_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pachages_in_python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_DICE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +161,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_DICE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="turtleSQUIRE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +183,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtleSQUIRE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,19 +194,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.py" />
-      <item itemvalue="Python.XY_cordinates_using_forLOOP" />
-      <item itemvalue="Python.challenge" />
-      <item itemvalue="Python.LARGEST_NUMBER_in_list" />
-      <item itemvalue="Python.remove_duplicates" />
-      <item itemvalue="Python.simple calculator" />
+      <item itemvalue="Python.class" />
+      <item itemvalue="Python.random_DICE" />
+      <item itemvalue="Python.pachages_in_python" />
+      <item itemvalue="Python.if_else" />
+      <item itemvalue="Python.turtleSQUIRE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.simple calculator" />
-        <item itemvalue="Python.remove_duplicates" />
-        <item itemvalue="Python.LARGEST_NUMBER_in_list" />
-        <item itemvalue="Python.challenge" />
-        <item itemvalue="Python.XY_cordinates_using_forLOOP" />
+        <item itemvalue="Python.turtleSQUIRE" />
+        <item itemvalue="Python.if_else" />
+        <item itemvalue="Python.pachages_in_python" />
+        <item itemvalue="Python.random_DICE" />
+        <item itemvalue="Python.class" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +238,19 @@
       <workItem from="1576361879050" duration="6070000" />
       <workItem from="1576403575700" duration="246000" />
       <workItem from="1576587724542" duration="1972000" />
+      <workItem from="1577260140163" duration="1505000" />
+      <workItem from="1577283714389" duration="3477000" />
+      <workItem from="1577368711530" duration="2542000" />
+      <workItem from="1577409342814" duration="3941000" />
+      <workItem from="1577453684427" duration="5577000" />
+      <workItem from="1578546136280" duration="5527000" />
+      <workItem from="1578574191603" duration="110000" />
+      <workItem from="1579816854002" duration="703000" />
+      <workItem from="1581393992692" duration="642000" />
+      <workItem from="1581672965889" duration="460000" />
+      <workItem from="1581692688654" duration="2114000" />
+      <workItem from="1588300693524" duration="1936000" />
+      <workItem from="1588345710833" duration="599000" />
     </task>
     <servers />
   </component>
@@ -223,50 +258,65 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576321123471">
+    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl" timestamp="1581395553069">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.735@0.0.1366.735" timestamp="1576321123471" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1576590336229">
+    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1581395553069" />
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom" timestamp="1588313834768">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1576590336229" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1576590336228">
+    <state width="1322" height="166" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1588313834768" />
+    <state width="1322" height="166" key="GridCell.Tab.0.center" timestamp="1588313834768">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1576590336228" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1576590336228">
+    <state width="1322" height="166" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1588313834768" />
+    <state width="1322" height="166" key="GridCell.Tab.0.left" timestamp="1588313834767">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1576590336228" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1576590336228">
+    <state width="1322" height="166" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1588313834767" />
+    <state width="1322" height="166" key="GridCell.Tab.0.right" timestamp="1588313834768">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1576590336228" />
-    <state x="179" y="4" key="SettingsEditor" timestamp="1576290088959">
+    <state width="1322" height="166" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1588313834768" />
+    <state x="267" y="4" width="906" height="727" key="SettingsEditor" timestamp="1581694758728">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="179" y="4" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1576290088959" />
-    <state x="362" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1576587728431">
+    <state x="267" y="4" width="906" height="727" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1581694758728" />
+    <state x="362" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1588345711920">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="362" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1576587728431" />
+    <state x="362" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1588345711920" />
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1581693892106">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.0.1366.735@0.0.1366.735" timestamp="1581693892106" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$ingine_car.coverage" NAME="ingine_car Coverage Results" MODIFIED="1576364325794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$printball_py.coverage" NAME="printball,py Coverage Results" MODIFIED="1576291622040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$weightConverter.coverage" NAME="weightConverter Coverage Results" MODIFIED="1576321075817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$challenge.coverage" NAME="challenge Coverage Results" MODIFIED="1576366902890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$class.coverage" NAME="class Coverage Results" MODIFIED="1577461874151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$turtleSQUIRE.coverage" NAME="turtleSQUIRE Coverage Results" MODIFIED="1588313152100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$table_using_forLOOP.coverage" NAME="table_using_forLOOP Coverage Results" MODIFIED="1576365969075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$XY_cordinates_using_forLOOP.coverage" NAME="XY_cordinates_using_forLOOP Coverage Results" MODIFIED="1576366428273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$simple_calculator.coverage" NAME="simple calculator Coverage Results" MODIFIED="1577413294193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1576321558830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$py.coverage" NAME="py Coverage Results" MODIFIED="1576290696628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$for__loop.coverage" NAME="for _loop Coverage Results" MODIFIED="1576365512043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$LARGEST_NUMBER_in_list.coverage" NAME="LARGEST_NUMBER_in_list Coverage Results" MODIFIED="1576589314312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$if_else.coverage" NAME="if_else Coverage Results" MODIFIED="1581673327259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$math.coverage" NAME="math Coverage Results" MODIFIED="1577454342636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$input.coverage" NAME="input Coverage Results" MODIFIED="1576292468987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$remove_duplicates.coverage" NAME="remove_duplicates Coverage Results" MODIFIED="1576590136589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$simple_calculator.coverage" NAME="simple calculator Coverage Results" MODIFIED="1576590282844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$random_DICE.coverage" NAME="random_DICE Coverage Results" MODIFIED="1578546679049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$Calender_MODULE.coverage" NAME="Calender_MODULE Coverage Results" MODIFIED="1577455184176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$strings.coverage" NAME="strings Coverage Results" MODIFIED="1576295872714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$ingine_car.coverage" NAME="ingine_car Coverage Results" MODIFIED="1576364325794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$printball_py.coverage" NAME="printball,py Coverage Results" MODIFIED="1576291622040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$import1st.coverage" NAME="import1st Coverage Results" MODIFIED="1577456527444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$challenge.coverage" NAME="challenge Coverage Results" MODIFIED="1576366902890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$numbers_in_alphabets.coverage" NAME="numbers_in_alphabets Coverage Results" MODIFIED="1577368961390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$XY_cordinates_using_forLOOP.coverage" NAME="XY_cordinates_using_forLOOP Coverage Results" MODIFIED="1576366428273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$py.coverage" NAME="py Coverage Results" MODIFIED="1576290696628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$pachages_in_python.coverage" NAME="pachages_in_python Coverage Results" MODIFIED="1578548314404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$LARGEST_NUMBER_in_list.coverage" NAME="LARGEST_NUMBER_in_list Coverage Results" MODIFIED="1576589314312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$simple_calculator.coverage" NAME="simple calculator Coverage Results" MODIFIED="1576590282844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$if_else.coverage" NAME="if_else Coverage Results" MODIFIED="1576318938471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hello_py$function.coverage" NAME="function Coverage Results" MODIFIED="1577412170093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
