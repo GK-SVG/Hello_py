@@ -1,0 +1,2 @@
+this is write which clear all content and write new contentthis is apend which append new contentthis is apend which append new content
+this function read sa well as writethis function read sa well as write 

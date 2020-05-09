@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a22dc034-3b0a-41df-a5fa-0725814e0d31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calender_MODULE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Math_Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import1st.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers_in_alphabets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pachages_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_DICE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtleSQUIRE.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NUMPY_PROJ" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -250,7 +237,7 @@
       <workItem from="1581672965889" duration="460000" />
       <workItem from="1581692688654" duration="2114000" />
       <workItem from="1588300693524" duration="1936000" />
-      <workItem from="1588345710833" duration="599000" />
+      <workItem from="1588345710833" duration="615000" />
     </task>
     <servers />
   </component>
@@ -258,10 +245,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl" timestamp="1581395553069">
+    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl" timestamp="1588350223843">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1581395553069" />
+    <state x="465" y="126" width="432" height="483" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1588350223843" />
     <state width="1322" height="166" key="GridCell.Tab.0.bottom" timestamp="1588313834768">
       <screen x="0" y="0" width="1366" height="735" />
     </state>

@@ -1,0 +1,6 @@
+ptr = open('gk.txt','r')
+print(ptr.tell())
+print(ptr.readline())
+ptr.seek(3)
+print(ptr.readline())
+ptr.close()
